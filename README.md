@@ -1,4 +1,4 @@
 # Learning-demo
-Author- Srutika Ghatkar
+Author- Srutika Bhanudas Ghatkar
 <br>
 Update new line
